@@ -1,7 +1,6 @@
 
-
+<img align="right" height="30" width="40" alt="Felipe-Tomioka" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296203373481169009/output-onlinegiftools.gif?ex=67116ef6&is=67101d76&hm=d0476dfc146a1282b947608f643c28dedb6f27a8c56d75dc99730b132b4add03&">
   ## Olá eu sou o Felipe!  
-  <img align="right" height="30" width="40" alt="Felipe-Tomioka" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296203373481169009/output-onlinegiftools.gif?ex=67116ef6&is=67101d76&hm=d0476dfc146a1282b947608f643c28dedb6f27a8c56d75dc99730b132b4add03&">
 
 # GitHub Stats
 
