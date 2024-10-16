@@ -5,10 +5,10 @@
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=dark&count_private=true&hide=stars,prs)](https://github.com/1felipww/github-readme-stats)
 
-## Principais Linguagens
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1felipww&layout=compact&theme=dark)](https://github.com/1felipww/github-readme-stats)
 
-## Conhecimentos
+## Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
