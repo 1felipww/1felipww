@@ -1,5 +1,4 @@
 
-<img align="right" height="30" width="40" alt="Felipe-Tomioka" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296203373481169009/output-onlinegiftools.gif?ex=67116ef6&is=67101d76&hm=d0476dfc146a1282b947608f643c28dedb6f27a8c56d75dc99730b132b4add03&">
   ## Olá eu sou o Felipe!  
 
 # GitHub Stats
@@ -18,7 +17,7 @@
   <img align="center" alt="Felipe-Php" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/595.svg">
   <img align="center" alt="Felipe-SQL" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/533.svg">
   <img align="center" alt="Felipe-CPP" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
- 
+ <img align="right" height=100 width=118 alt="Felipe-Tomioka" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296203373481169009/output-onlinegiftools.gif?ex=67116ef6&is=67101d76&hm=d0476dfc146a1282b947608f643c28dedb6f27a8c56d75dc99730b132b4add03&">
 </div>
 <br>
   <picture align="center">
