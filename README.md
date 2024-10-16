@@ -1,7 +1,5 @@
 ## Olá, eu sou o Felipe! 👋
 
-### Bem-vindo ao meu perfil!
-
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1felipww&layout=compact&theme=tokyonight)](https://github.com/1felipww/github-readme-stats)
@@ -19,7 +17,7 @@
 
 <br>
 
-### Contribuições do GitHub 🐍
+### Contribuições
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1felipww/1felipww/output/github-contribution-grid-snake-dark.svg">
