@@ -1,7 +1,5 @@
 ## Olá eu sou o Felipe!  
 
-# GitHub Stats
-
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=dark&count_private=true&hide=stars,prs)](https://github.com/1felipww/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1felipww&layout=compact&theme=dark)](https://github.com/1felipww/github-readme-stats)
