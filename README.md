@@ -1,6 +1,6 @@
 
 
-  ## Olá eu sou a Felipe de Siqueira!
+  ## Olá eu sou o Felipe!
 
 # GitHub Stats
 
