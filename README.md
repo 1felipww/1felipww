@@ -14,8 +14,10 @@
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-  <img align="center" alt="Felipe-Tomioka" height="30" width="40" src="https://media.discordapp.net/attachments/1285668708840378472/1296152912577429646/sr28bb2553d950e-ezgif.com-webp-to-gif-converter.gif?ex=67113ff7&is=670fee77&hm=85dd8ea531aaee1f65e5c048c241dd295576c134649c996bd757cdb471dcfb34&=&width=468&height=468" 
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-Php" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/595.svg">
+  <img align="center" alt="Felipe-SQL" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/533.svg">
+  <img align="center" alt="Felipe-CPP" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   </div>
 <br>
   <picture align="center">
