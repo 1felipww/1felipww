@@ -18,7 +18,7 @@
   <img align="center" alt="Felipe-Php" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/595.svg">
   <img align="center" alt="Felipe-SQL" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/533.svg">
   <img align="center" alt="Felipe-CPP" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-  <img align="center" alt="Felipe-Tomioka" height="30" width="40" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296152912577429646/sr28bb2553d950e-ezgif.com-webp-to-gif-converter.gif?ex=67113ff7&is=670fee77&hm=85dd8ea531aaee1f65e5c048c241dd295576c134649c996bd757cdb471dcfb34&">
+  <img align="right" alt="Felipe-Tomioka" height="30" width="40" src="https://cdn.discordapp.com/attachments/1285668708840378472/1296152912577429646/sr28bb2553d950e-ezgif.com-webp-to-gif-converter.gif?ex=67113ff7&is=670fee77&hm=85dd8ea531aaee1f65e5c048c241dd295576c134649c996bd757cdb471dcfb34&">
 </div>
 <br>
   <picture align="center">
