@@ -2,25 +2,9 @@
 
 ### Bem-vindo ao meu perfil!
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=tokyonight)
-  </div>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1felipww&layout=compact&theme=tokyonight)](https://github.com/1felipww/github-readme-stats)
-  </div>
-</div>
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=tokyonight)
 
-<br>
-
-### Meus Repositórios
-
-<a href="https://github.com/1felipww/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1felipww&repo=repo1" />
-</a>
-<a href="https://github.com/1felipww/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1felipww&repo=repo2" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1felipww&layout=compact&theme=tokyonight)](https://github.com/1felipww/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
