@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe! 👋
+## Hi, im Felipe! 👋
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=1felipww&show_icons=true&theme=tokyonight)
 
