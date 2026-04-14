@@ -1,4 +1,7 @@
 ## Hi, im Felipe! 👋
+🇧🇷 🇺🇸
+
+I'm a Computer Science student passionate about the intersection of Software Engineering and Cybersecurity. My goal is to build secure, scalable, and efficient systems while exploring the world of offensive security.
 
 
 
