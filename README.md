@@ -6,20 +6,21 @@ I am currently a Computer Science student passionate about the world of Software
 
 Sou um estudante de Ciência da Computação apaixonado pelo mundo de Engenharia de Software e Cibersegurança. Meu objetivo é aprender, treinar, construir sistemas seguros, resolver problemas e fazer projetos escaláveis ​​e eficientes que ajudem as pessoas.
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Php" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/595.svg">
-  <img align="center" alt="Felipe-SQL" height="30" width="40" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/533.svg">
-  <img align="center" alt="Felipe-CPP" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+### Languages and Technologies 🤖
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" title="Kali" hspace="10" />
 </div>
-
 <br>
 
-### Contribuições
+### GitHub Stats 💻
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1felipww/1felipww/output/github-contribution-grid-snake-dark.svg">
